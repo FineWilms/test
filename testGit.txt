@@ -2,3 +2,4 @@
 2. though shalt use version control
 3. though shalt put comments in though's code
 4. a new entry.
+5.wrong work
