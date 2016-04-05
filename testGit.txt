@@ -1,0 +1,3 @@
+1. though shalt not forget to make backups
+2. though shalt use version control
+3. though shalt put comments in though's code
